@@ -1,4 +1,4 @@
-public class Main {
+public class Task3 {
     public static void main(String[] args) {
         // 1. Массив создается с помощью инициализации
         int[] numbers = {15, 8, 22, 10, 4};
